@@ -1,3 +1,7 @@
  npm i --save scss
  npm i --save sass
+ npm install eslint-plugin-react -D
+
+ ---------------------------
+  npm audit fix --force
  
